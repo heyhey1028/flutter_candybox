@@ -22,8 +22,5 @@ flutter_export_environment.sh
 
 
 # Misc
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+.env*
 build/
